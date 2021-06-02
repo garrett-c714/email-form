@@ -1,0 +1,5 @@
+#debug logs
+*.log
+
+#node modules
+app/node_modules/
