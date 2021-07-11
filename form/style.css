@@ -1,0 +1,28 @@
+:root {
+    --main: #43c485;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+
+textarea {
+    width: 100%;
+    margin: 30px;
+}
+
+#submit {
+    background-color: var(--main);
+    color: white;
+    border: none;
+    height: 50px;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
+}
