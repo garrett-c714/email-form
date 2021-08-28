@@ -3,3 +3,6 @@
 
 #node modules
 app/node_modules/
+
+#MacOS
+*.DS_STORE
